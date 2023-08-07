@@ -7,9 +7,10 @@ Vous pouvez également ajouter ici des styles globaux ou des ajustements spécif
 */
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
-@import '_variables.scss';
-@import '_boilerplate.scss';
-@import '_app.scss';
-@import '_nav.scss';
-@import '_main.scss';
+@import 'variables';
+@import 'boilerplate';
+@import 'app';
+@import 'nav';
+@import 'main';
+@import 'wait';
 
